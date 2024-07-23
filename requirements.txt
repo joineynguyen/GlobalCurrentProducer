@@ -1,0 +1,7 @@
+praw
+pandas
+scikit-learn
+openai
+gtts
+moviepy
+requests
